@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/asatraitis/drag-xstate.git"
   },
-  "author": "",
+  "author": "Andrius Satraitis <asatraitis@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/asatraitis/drag-xstate/issues"
