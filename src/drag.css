@@ -1,0 +1,7 @@
+.xdrag-draggable {
+	cursor: pointer;
+}
+.xdrag-draggable[data-state="dragging"],
+.xdrag-draggable[data-state="inDropArea"] {
+	visibility: hidden;
+}

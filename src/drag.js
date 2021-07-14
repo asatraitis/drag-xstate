@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { useActor } from "@xstate/react";
 import { getDragService, cleanUpDragService } from "./machine/machine";
+import "./drag.css";
 
 export function Drag({
 	children,
