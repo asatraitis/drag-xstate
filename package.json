@@ -1,6 +1,6 @@
 {
   "name": "drag-xstate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React component for drag and drop functionality using state machines (Xstate)",
   "main": "dist/index.js",
   "module": "dist/index.es.js",

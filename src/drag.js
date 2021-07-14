@@ -104,7 +104,7 @@ export function Drag({
 				: null}
 			<div
 				ref={draggableEl}
-				className={`xdrag-draggable ${className}`}
+				className={`drag-xstate-draggable ${className ? className : ""}`}
 				data-state={
 					state.context.ref === draggableEl.current ? state.value : ""
 				}
