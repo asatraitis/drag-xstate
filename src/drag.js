@@ -3,7 +3,7 @@ import { createPortal } from "react-dom";
 import { useActor } from "@xstate/react";
 import { getDragService, cleanUpDragService } from "./machine/machine";
 
-export default function Draggable({
+export function Drag({
 	children,
 	group,
 	draggable,

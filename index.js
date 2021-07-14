@@ -1,3 +1,1 @@
-import Drag from "./src/drag";
-
-export default Drag;
+export * from "./src/drag";
